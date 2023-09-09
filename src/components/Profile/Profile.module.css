@@ -1,0 +1,29 @@
+.profContainer {
+    text-align: center;
+    background: pink;
+    margin: 10% auto;
+    width: 60%;
+    border-radius: 15px;
+}
+
+.profContainer img {
+    height: 190px;
+    width: 176px;
+    border-radius: 54%;
+    margin-top: 4%;
+}
+/* span {
+    font-weight: bold;
+} */
+
+
+footer{
+    padding-bottom: 4%;
+    margin-top: 6%;
+}
+
+@media only screen and (max-width: 600px){
+    .profContainer img {
+        margin-top: 20%;
+    }
+};
