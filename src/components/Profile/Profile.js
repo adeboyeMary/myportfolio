@@ -24,7 +24,9 @@ const Profile = () => {
                 <p data-testid="currentUTCTime">{currentTime}</p>
                 <p data-testid="myTrack">Frontend Development</p>
             </main>
-            <footer><a href=''>Go to github repo.</a></footer>
+            <footer>
+                <a href="https://github.com/adeboyeMary/myportfolio">Go to github repo.</a>
+            </footer>
         </div>
     )
 }
